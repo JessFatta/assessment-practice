@@ -7,3 +7,10 @@ var breakfast = {
   numberOfEggs: 2,
   toDoList: ["study for assessment", "drink water"],
 };
+
+var studying = {
+  notes: "mod 0",
+  music: "soft",
+  hasWater: true,
+  necessities: ["pen", "notebook", "pencil"],
+};
